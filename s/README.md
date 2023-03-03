@@ -34,3 +34,5 @@ end)
 ```
 **lmk if it works**
 
+#oh yea and another simple kick command
+
