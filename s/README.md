@@ -32,5 +32,5 @@ game.Players.PlayerAdded:Connect(function(player)
   end)
 end)
 ```
-lmk if it works[^1].
+**lmk if it works**
 
